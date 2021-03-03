@@ -22,7 +22,7 @@ Les Notebooks sont également exploitables en ligne, en utilisant une machine vi
 Plusieurs sites permettent de créer des machines virtuelles. La solution retenue est basée sur le site Binder :
 - https://mybinder.org/
 
-il suffit ensuite de préciser le site GitHub contenant les dépôts des fichiers Notebooks (https://github.com/larroque852/20202021_ENS2_HYDRODYN) puis lancer la création dela machine virtuelle (cela peut prendre un peu de temps). On a alors accès à une interface identique à celle du logiciel Jupyter Notebook/
+il suffit ensuite de préciser le site GitHub contenant les dépôts des fichiers Notebooks (https://github.com/larroque852/ENS1CARTO) puis lancer la création dela machine virtuelle (cela peut prendre un peu de temps). On a alors accès à une interface identique à celle du logiciel Jupyter Notebook/
 On peut également accéder à une version pré-compilée de la machine virtuelle via l’adresse suivante (cela peut mettre un peu de temps à se lancer... c'est normal!) :
 - https://mybinder.org/v2/gh/larroque852/ENS1CARTO/25216e1140d4ebb1cce6f60982007487555a3b0f
 
